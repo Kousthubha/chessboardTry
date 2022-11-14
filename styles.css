@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.rect{
+  display:flex ;
+}
+.blackSquare{
+  height: 30px;
+  width: 30px;
+  background-color: black;
+  color: black;
+  border: 1px solid;
+}
+
+.whiteSquare{
+  height: 30px;
+  width: 30px;
+  border: 1px solid;
+}
